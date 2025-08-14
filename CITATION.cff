@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Predicting 3D Magnetic Topological Insulators and
+  Semimetals with Machine Learning
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: James A.
+    family-names: Boulton
+    email: jaboulto@ncsu.edu
+  - given-names: Ki Wook
+    family-names: Kim
+    email: kwk@ncsu.edu
+identifiers:
+  - type: doi
+    value: 10.1063/5.0281262
+    description: >-
+      Predicting 3D Magnetic Topological Insulators and  
+      Semimetals with Machine Learning
+url: >-
+  https://github.com/jaboulto_ncstate/Predicting-3D-Magnetic-Topological-Insulators-and-Semimetals-with-Machine-Learning
+abstract: >-
+  Dataset for "Predicting 3D Magnetic Topological Insulators
+  and
+    Semimetals with Machine Learning"
+license: MIT
+date-released: '2025-08-14'
