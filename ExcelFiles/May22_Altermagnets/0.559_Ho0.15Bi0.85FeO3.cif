@@ -1,0 +1,42 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '5yOhtAoR'
+_cell_length_a                         5.553000
+_cell_length_b                         7.821000
+_cell_length_c                         5.417000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           235.260374
+_space_group_name_H-M_alt              'Pn'ma''
+_space_group_IT_number                 62
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   'x+1/2t, -y+1/2t, -z+1/2t'
+   '-x, y+1/2t, -z'
+   '-x+1/2t, -y, z+1/2t'
+   '-x, -y, -z'
+   '-x+1/2t, y+1/2t, z+1/2t'
+   'x, -y+1/2t, z'
+   'x+1/2t, y, -z+1/2t'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Bi1        0.8500  0.000000     0.250000     0.964000    Uiso  ? Bi
+   Ho1        0.1500  0.000000     0.250000     0.964000    Uiso  ? Ho
+   Fe1        1.0     0.000000     0.000000     0.500000    Uiso  ? Fe
+   O1         1.0     0.624000     0.250000     0.054000    Uiso  ? O
+   O2         1.0     0.294000     0.025000     0.693000    Uiso  ? O

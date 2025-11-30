@@ -1,0 +1,71 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '5yOhtAoR'
+_cell_length_a                         7.6228(2)
+_cell_length_b                         7.6228(2)
+_cell_length_c                         15.2972(7)
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           888.875604
+_space_group_name_H-M_alt              'I4'/mmm''
+_space_group_IT_number                 139
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-y, x, z'
+   'y, -x, z'
+   'x, -y, -z'
+   '-x, y, -z'
+   '-x, -y, z'
+   'y, x, -z'
+   '-y, -x, -z'
+   '-x, -y, -z'
+   'y, -x, -z'
+   '-y, x, -z'
+   '-x, y, z'
+   'x, -y, z'
+   'x, y, -z'
+   '-y, -x, z'
+   'y, x, z'
+   'x+1/2t, y+1/2t, z+1/2t'
+   '-y+1/2t, x+1/2t, z+1/2t'
+   'y+1/2t, -x+1/2t, z+1/2t'
+   'x+1/2t, -y+1/2t, -z+1/2t'
+   '-x+1/2t, y+1/2t, -z+1/2t'
+   '-x+1/2t, -y+1/2t, z+1/2t'
+   'y+1/2t, x+1/2t, -z+1/2t'
+   '-y+1/2t, -x+1/2t, -z+1/2t'
+   '-x+1/2t, -y+1/2t, -z+1/2t'
+   'y+1/2t, -x+1/2t, -z+1/2t'
+   '-y+1/2t, x+1/2t, -z+1/2t'
+   '-x+1/2t, y+1/2t, z+1/2t'
+   'x+1/2t, -y+1/2t, z+1/2t'
+   'x+1/2t, y+1/2t, -z+1/2t'
+   '-y+1/2t, -x+1/2t, z+1/2t'
+   'y+1/2t, x+1/2t, z+1/2t'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Sr1        1.0     0.000000     0.000000     0.8782(7)   Uiso  ? Sr
+   Tb1        1.0     0.000000     0.000000     0.3528(4)   Uiso  ? Tb
+   Sr2        0.9000  0.000000     0.500000     0.8678(4)   Uiso  ? Sr
+   Tb2        0.1000  0.000000     0.500000     0.867800    Uiso  ? Tb
+   Co1        1.0     0.749800     0.749800     0.000000    Uiso  ? Co
+   Co2        1.0     0.250000     0.250000     0.250000    Uiso  ? Co
+   O1         1.0     0.000000     0.2461(4)    0.2405(2)   Uiso  ? O
+   O2         1.0     0.2834(4)    0.283400     0.1183(4)   Uiso  ? O
+   O3         0.9990  0.7218(8)    0.000000     0.000000    Uiso  ? O
+   O4         0.7310  0.353(2)     0.500000     0.000000    Uiso  ? O

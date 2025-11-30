@@ -1,0 +1,51 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '5yOhtAoR'
+_cell_length_a                         5.560900
+_cell_length_b                         5.560900
+_cell_length_c                         13.807000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      120.000000
+_cell_volume                           369.760202
+_space_group_name_H-M_alt              'R3c'
+_space_group_IT_number                 161
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-y, x-y, z'
+   '-x+y, -x, z'
+   '-x+y, y, z+1/2t'
+   '-y, -x, z+1/2t'
+   'x, x-y, z+1/2t'
+   'x+2/3t, y+1/3t, z+1/3t'
+   '-y+2/3t, x-y+1/3t, z+1/3t'
+   '-x+y+2/3t, -x+1/3t, z+1/3t'
+   '-x+y+2/3t, y+1/3t, z+5/6t'
+   '-y+2/3t, -x+1/3t, z+5/6t'
+   'x+2/3t, x-y+1/3t, z+5/6t'
+   'x+1/3t, y+2/3t, z+2/3t'
+   '-y+1/3t, x-y+2/3t, z+2/3t'
+   '-x+y+1/3t, -x+2/3t, z+2/3t'
+   '-x+y+1/3t, y+2/3t, z+1/6t'
+   '-y+1/3t, -x+2/3t, z+1/6t'
+   'x+1/3t, x-y+2/3t, z+1/6t'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Bi1        0.9500  0.000000     0.000000     0.220900    Uiso  ? Bi
+   Ho1        0.0500  0.000000     0.000000     0.220900    Uiso  ? Ho
+   Fe1        1.0     0.000000     0.000000     0.000000    Uiso  ? Fe
+   O1         1.0     0.888800     0.646600     0.435400    Uiso  ? O

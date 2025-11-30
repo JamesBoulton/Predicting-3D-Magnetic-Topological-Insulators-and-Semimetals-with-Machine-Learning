@@ -1,0 +1,43 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '"Bi0.85 Ca0.15 Fe0.55 Mn0.45 O3"'
+_cell_length_a                         5.52125(11)
+_cell_length_b                         7.79853(18)
+_cell_length_c                         5.49161(11)
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           236.455728
+_space_group_name_H-M_alt              'Pn'm'a'
+_space_group_IT_number                 62
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   'x+1/2t, -y+1/2t, -z+1/2t'
+   '-x, y+1/2t, -z'
+   '-x+1/2t, -y, z+1/2t'
+   '-x, -y, -z'
+   '-x+1/2t, y+1/2t, z+1/2t'
+   'x, -y+1/2t, z'
+   'x+1/2t, y, -z+1/2t'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Bi1        0.8500  0.0238(5)    0.250000     0.9931(8)   Uiso  ? Bi
+   Ca1        0.1500  0.0238(5)    0.250000     0.9931(8)   Uiso  ? Ca
+   Fe1        0.5500  0.000000     0.000000     0.500000    Uiso  ? Fe
+   Mn1        0.4500  0.000000     0.000000     0.500000    Uiso  ? Mn
+   O1         1.0     0.472600     0.250000     0.0745(9)   Uiso  ? O
+   O2         1.0     0.2125(5)    0.5455(4)    0.2171(5)   Uiso  ? O

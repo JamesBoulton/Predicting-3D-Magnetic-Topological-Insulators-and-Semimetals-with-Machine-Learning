@@ -1,0 +1,43 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '5yOhtAoR'
+_cell_length_a                         5.488900
+_cell_length_b                         7.704400
+_cell_length_c                         5.423300
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           229.344205
+_space_group_name_H-M_alt              'Pn'm'a'
+_space_group_IT_number                 62
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   'x+1/2t, -y+1/2t, -z+1/2t'
+   '-x, y+1/2t, -z'
+   '-x+1/2t, -y, z+1/2t'
+   '-x, -y, -z'
+   '-x+1/2t, y+1/2t, z+1/2t'
+   'x, -y+1/2t, z'
+   'x+1/2t, y, -z+1/2t'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ca1        0.6667  0.038300     0.250000     0.993300    Uiso  ? Ca
+   Pr1        0.3333  0.038300     0.250000     0.993300    Uiso  ? Pr
+   Cr1        0.6667  0.000000     0.000000     0.500000    Uiso  ? Cr
+   Nb1        0.3333  0.000000     0.000000     0.500000    Uiso  ? Nb
+   O1         1.0     0.481700     0.250000     0.075300    Uiso  ? O
+   O2         1.0     0.209000     0.539800     0.208300    Uiso  ? O

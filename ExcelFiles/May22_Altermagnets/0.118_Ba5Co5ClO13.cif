@@ -1,0 +1,63 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Ba5 Co5 Cl O1 3'
+_cell_length_a                         5.669000
+_cell_length_b                         5.669000
+_cell_length_c                         24.304001
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      120.000000
+_cell_volume                           676.427632
+_space_group_name_H-M_alt              'P6_3'/m'm'c'
+_space_group_IT_number                 194
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   'x-y, x, z+1/2t'
+   '-y, x-y, z'
+   '-x, -y, z+1/2t'
+   '-x+y, -x, z'
+   'y, -x+y, z+1/2t'
+   'x-y, -y, -z'
+   'y, x, -z'
+   '-x, -x+y, -z'
+   'x, x-y, -z+1/2t'
+   '-x+y, y, -z+1/2t'
+   '-y, -x, -z+1/2t'
+   '-x, -y, -z'
+   '-x+y, -x, -z+1/2t'
+   'y, -x+y, -z'
+   'x, y, -z+1/2t'
+   'x-y, x, -z'
+   '-y, x-y, -z+1/2t'
+   '-x+y, y, z'
+   '-y, -x, z'
+   'x, x-y, z'
+   '-x, -x+y, z+1/2t'
+   'x-y, -y, z+1/2t'
+   'y, x, z+1/2t'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ba1        1.0     0.000000     0.000000     0.250000    Uiso  ? Ba
+   Ba2        1.0     0.333333     0.666667     0.371350    Uiso  ? Ba
+   Ba3        1.0     0.333333     0.666667     0.959910    Uiso  ? Ba
+   Co1        1.0     0.000000     0.000000     0.602850    Uiso  ? Co
+   Co2        1.0     0.333333     0.666667     0.823160    Uiso  ? Co
+   Co3        1.0     0.000000     0.000000     0.000000    Uiso  ? Co
+   Cl1        1.0     0.333333     0.666667     0.250000    Uiso  ? Cl
+   O1         1.0     0.838800     0.677600     0.350630    Uiso  ? O
+   O2         1.0     0.146900     0.293800     0.449840    Uiso  ? O
+   O3         1.0     0.333333     0.666667     0.750000    Uiso  ? O

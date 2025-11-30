@@ -1,0 +1,45 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '5yOhtAoR'
+_cell_length_a                         9.789200
+_cell_length_b                         9.789200
+_cell_length_c                         4.857000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           465.438688
+_space_group_name_H-M_alt              'Pb'an''
+_space_group_IT_number                 50
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   'x, -y+1/2t, -z'
+   '-x+1/2t, y, -z'
+   '-x+1/2t, -y+1/2t, z'
+   '-x, -y, -z'
+   '-x, y+1/2t, z'
+   'x+1/2t, -y, z'
+   'x+1/2t, y+1/2t, -z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ce1        1.0     0.250000     0.250000     0.500000    Uiso  ? Ce
+   Mn1        0.5000  0.000000     0.000000     0.500000    Uiso  ? Mn
+   Co1        0.5000  0.000000     0.000000     0.500000    Uiso  ? Co
+   Ge1_1      1.0     0.523200     0.250000     0.000000    Uiso  ? Ge
+   Ge1_2      1.0     0.250000     0.523200     0.000000    Uiso  ? Ge
+   O1         1.0     0.631400     0.368600     0.175300    Uiso  ? O
+   O2_1       1.0     0.164600     0.064300     0.254200    Uiso  ? O
+   O2_2       1.0     0.435700     0.164600     0.254200    Uiso  ? O

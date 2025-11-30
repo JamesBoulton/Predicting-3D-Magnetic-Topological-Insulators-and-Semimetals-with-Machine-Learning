@@ -1,0 +1,53 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '5yOhtAoR'
+_cell_length_a                         4.085600
+_cell_length_b                         4.085600
+_cell_length_c                         18.684999
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           311.892375
+_space_group_name_H-M_alt              'Im'm'm'
+_space_group_IT_number                 71
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, z'
+   '-x, y, -z'
+   'x, -y, -z'
+   '-x, -y, -z'
+   'x, y, -z'
+   'x, -y, z'
+   '-x, y, z'
+   'x+1/2t, y+1/2t, z+1/2t'
+   '-x+1/2t, -y+1/2t, z+1/2t'
+   '-x+1/2t, y+1/2t, -z+1/2t'
+   'x+1/2t, -y+1/2t, -z+1/2t'
+   '-x+1/2t, -y+1/2t, -z+1/2t'
+   'x+1/2t, y+1/2t, -z+1/2t'
+   'x+1/2t, -y+1/2t, z+1/2t'
+   '-x+1/2t, y+1/2t, z+1/2t'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   La1        1.0     0.000000     0.000000     0.683100    Uiso  ? La
+   Fe1_1      0.5000  0.000000     0.500000     0.000000    Uiso  ? Fe
+   Fe1_2      0.5000  0.500000     0.000000     0.000000    Uiso  ? Fe
+   Mn1_1      0.5000  0.000000     0.500000     0.000000    Uiso  ? Mn
+   Mn1_2      0.5000  0.500000     0.000000     0.000000    Uiso  ? Mn
+   O1         1.0     0.000000     0.500000     0.250000    Uiso  ? O
+   O2         1.0     0.000000     0.000000     0.500000    Uiso  ? O
+   Se1        1.0     0.000000     0.000000     0.099500    Uiso  ? Se

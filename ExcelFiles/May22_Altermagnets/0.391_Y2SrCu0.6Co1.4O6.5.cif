@@ -1,0 +1,55 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '5yOhtAoR'
+_cell_length_a                         5.430500
+_cell_length_b                         10.732700
+_cell_length_c                         19.993601
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           1165.305623
+_space_group_name_H-M_alt              'Ib'a'm'
+_space_group_IT_number                 72
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   'x, -y, -z+1/2t'
+   '-x, y, -z+1/2t'
+   '-x, -y, z'
+   '-x, -y, -z'
+   '-x, y, z+1/2t'
+   'x, -y, z+1/2t'
+   'x, y, -z'
+   'x+1/2t, y+1/2t, z+1/2t'
+   'x+1/2t, -y+1/2t, -z'
+   '-x+1/2t, y+1/2t, -z'
+   '-x+1/2t, -y+1/2t, z+1/2t'
+   '-x+1/2t, -y+1/2t, -z+1/2t'
+   '-x+1/2t, y+1/2t, z'
+   'x+1/2t, -y+1/2t, z'
+   'x+1/2t, y+1/2t, -z+1/2t'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Y1         1.0     0.206460     0.361650     0.183340    Uiso  ? Y
+   Sr1        1.0     0.196500     0.363880     0.000000    Uiso  ? Sr
+   Cu1        0.3150  0.711100     0.383930     0.099730    Uiso  ? Cu
+   Co2        0.6850  0.711100     0.383930     0.099730    Uiso  ? Co
+   O1         1.0     0.188700     0.107940     0.000000    Uiso  ? O
+   O2         1.0     0.000000     0.500000     0.104180    Uiso  ? O
+   O3         1.0     0.500000     0.000000     0.250000    Uiso  ? O
+   O4         1.0     0.000000     0.222610     0.250000    Uiso  ? O
+   O5         1.0     0.477500     0.252180     0.106040    Uiso  ? O
+   O6         1.0     0.000000     0.000000     0.355280    Uiso  ? O
